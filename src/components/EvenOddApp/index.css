@@ -1,0 +1,43 @@
+.bg-container {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  padding: 30px;
+  font-family: Roboto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  border-radius: 10px;
+}
+.bg-container1 {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 100vh;
+  padding: 40px;
+}
+
+.heading {
+  color: #0f172a;
+  font-size: 35px;
+}
+
+.paragraph {
+  color: #334155;
+  font-size: 20px;
+}
+.button {
+  background-color: #ffffff;
+  color: #334155;
+  font-size: 15px;
+  border: 0px;
+  padding: 15px;
+  text-align: center;
+  outline: none;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.paragraph1 {
+  color: #334155;
+  font-size: 15px;
+}
